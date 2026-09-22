@@ -1,0 +1,18 @@
+{
+  "mensagem_1": {
+    "descricao": "Cobranca Debitos em Atraso",
+    "contato": "Tatielly",
+    "telefone": "5567991240596",
+    "mensagem": "Bom dia, Tatielly! Consegue realizar o pagamento dos débitos em atraso no dia de hoje?\nValor total: R$ 6.200,00",
+    "horario": "08:00",
+    "ativo": true
+  },
+   "mensagem_3": {
+    "descricao": "Cobranca de Debitos em atraso",
+    "contato": "Augusto",
+    "telefone": "556798691402",
+    "mensagem": "Boa tarde, Augusto. Espero que esteja bem. Gostaria de entrar em um acordo pra poder receber de voce os valores do emprestimo a voce e seus amigos para o bar. No total são mais de 26 mil reais. Gostaria de ver uma maneira de quitar isso, um valor cheio, um valor parcelado, entrega de itens para cobrir o valor em débito., uma proposta. Aguardo seu retorno.",
+    "horario": "08:00",
+    "ativo": true
+  }
+}

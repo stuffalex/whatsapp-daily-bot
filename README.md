@@ -38,7 +38,7 @@ Abra o arquivo [`mensagens.json`](mensagens.json) em qualquer editor de texto (B
   "mensagem_1": {
     "descricao": "Cobranca Debitos em Atraso",
     "contato": "Tatielly",
-    "telefone": "5567991240596",
+    "telefone": "5567999940776",
     "mensagem": "Bom dia, Tatielly! Consegue realizar o pagamento dos débitos em atraso no dia de hoje?\nValor total: R$ 6.200,00",
     "horario": "09:00",
     "ativo": true
@@ -63,7 +63,7 @@ Abra o arquivo [`.env`](.env):
 
 ```ini
 CONTACT_NAME=Tatielly
-PHONE_NUMBER=5567991240596
+PHONE_NUMBER=5567999940776
 MESSAGE="Bom dia, Tatielly! Consegue realizar o pagamento dos débitos em atraso no dia de hoje?\nValor total: R$ 6.200,00"
 SCHEDULE_TIME=09:00
 HEADLESS=False
@@ -128,7 +128,7 @@ Existem **duas maneiras** de deixar o scheduler ativo:
    =================================================================
               WHATSAPP DAILY BOT - AGENDADOR EM EXECUÇÃO
    =================================================================
-   -> Agendado: [mensagem_1] Tatielly (5567991240596) às 09:00 diariamente
+   -> Agendado: [mensagem_1] Tatielly (5567999940776) às 09:00 diariamente
    =================================================================
    ```
 3. Para encerrar, basta fechar a janela ou pressionar `Ctrl + C`.
@@ -185,10 +185,10 @@ Todas as tentativas de envio (tanto agendadas quanto testes manuais) são regist
 
 Exemplo de log registrado:
 ```
-[2026-09-22 09:00:02] Iniciando envio para 5567991240596...
+[2026-09-22 09:00:02] Iniciando envio para 5567999940776...
 [2026-09-22 09:00:10] Carregando WhatsApp Web...
 [2026-09-22 09:00:24] Botão de envio clicado!
-[2026-09-22 09:00:29] SUCESSO: Mensagem enviada para 5567991240596!
+[2026-09-22 09:00:29] SUCESSO: Mensagem enviada para 5567999940776!
 ```
 
 Se ocorrer qualquer falha (número inválido, falta de internet, sessão expirada), o motivo exato será gravado no log.

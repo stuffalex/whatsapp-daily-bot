@@ -1,7 +1,9 @@
 # 📱 WhatsApp Daily Bot - Guia Completo e Documentação
 
 Sistema automatizado em Python com Playwright para envio diário e programado de mensagens personalizadas no WhatsApp.
-
+---
+Para aqueles que desejarem contribuir para futuras manutenções:
+Chave pix: 906d5175-89cb-4b07-8cee-385e47fbf549
 ---
 
 ## 📑 Sumário
